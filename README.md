@@ -1,1 +1,1 @@
-This a a project fice4ssed on scrapping different e-commerce website pages and retreive information such as prices and product name
+This a a project focussed on scrapping different e-commerce website pages and retreive information such as prices and product name
